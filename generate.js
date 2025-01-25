@@ -102,25 +102,26 @@ const webPage = ({ home, title, body, transform, quiz, footer }) => /* html */ `
   </header>
 
   <div class="container" style="max-width: 40em;">
-    ${body ? marked.parse(body) : ""}
-    <div class="list-group" id="quiz">${(quiz ?? []).map(quizRow).join("")}</div>
+    <div class="body">${body ? marked.parse(body) : ""}</div>
+    <div class="list-group my-3" id="quiz">${(quiz ?? []).map(quizRow).join("")}</div>
   </div>
 
-  ${footer ?? ""}
+  <footer>${footer ?? ""}</footer>
 
   <script type="module">
     const webcrypto = window.crypto;
     ${sha.toString()}
     const transform = ${transforms[transform ?? "mapEnglish"]};
     const $quiz = document.querySelector("#quiz");
+    const params = new URLSearchParams(window.location.search);
+
+    if (params.has("embed")) document.querySelectorAll("header, .body, footer").forEach((e) => e.remove());
 
     $quiz.querySelectorAll("a[href]").forEach((a) => {
       a.setAttribute("target", "_blank");
-      console.log(a.href, a.href.match(/j\\d+\\.jpg/));
-      if (a.href.match(/j\\d+\\.jpg/)) {
-        a.setAttribute("href", "../../jigsaw.html?" + a.href);
-      }
+      if (a.href.match(/j\\d+\\.jpg/)) a.setAttribute("href", "../../jigsaw.html?" + a.href);
     });
+
     $quiz.addEventListener("input", async (e) => {
       const input = e.target;
       input.classList.toggle("text-bg-success", await sha(transform(input.value)) === input.dataset.answer);

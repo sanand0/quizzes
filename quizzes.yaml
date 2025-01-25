@@ -271,7 +271,6 @@ quizzes:
       These are stills from a Hollywood movie. I’ve jumbled them up. You can **move the jumbled blocks around, like a jigsaw**.
 
       Can you guess which movie they are from?
-    render: jigsaw
     questions:
       - "[Movie 1](j01.jpg)"
 
@@ -281,7 +280,6 @@ quizzes:
     blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-2/
     body: | #markdown
       I’ve jumbled up some stills from movies. You can **move the jumbled blocks around, like a jigsaw**. Can you guess the movie?
-    render: jigsaw
     questions:
       - "[Movie 1](j02.jpg)"
       - "[Movie 2](j03.jpg)"
@@ -295,7 +293,6 @@ quizzes:
     blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-3-tamil/
     body: | #markdown
       These are stills from Tamil movies. Each link points to a different movie. I have jumbled the images. You can **move the jumbled blocks around, like a jigsaw**. Can you guess the movie?
-    render: jigsaw
     questions:
       - "[Movie 1](j07.jpg)"
       - "[Movie 2](j08.jpg)"
@@ -309,7 +306,6 @@ quizzes:
     blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-4/
     body: | #markdown
       I’ve jumbled up [3 stills from an old movie](j19.jpg). You can move the jumbled blocks around, like a jigsaw. Can you guess the actors and the movie?
-    render: jigsaw
     questions:
       - "Actor with dark suit"
       - "Actor with light suit"
@@ -589,7 +585,6 @@ quizzes:
     date: 2006-09-14
     blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-5-tamil/
     transform: mapTamil
-    render: jigsaw
     body: | #markdown
       These are stills from Kamal’s movies. Each link points to a different movie. I have jumbled the images. You can **move the jumbled blocks around, like a jigsaw**. Can you guess the movie?
     questions:
@@ -736,7 +731,6 @@ quizzes:
     date: 2006-12-20
     blog: https://www.s-anand.net/blog/hollywood-actors-jigsaw-quiz/
     transform: mapEnglish
-    render: jigsaw
     body: | #markdown
       I’ve jumbled up pictures of 5 highly paid Hollywood actors. You can move the jumbled blocks around, like a jigsaw. Can you guess the actors and the movie?
     questions:
@@ -865,7 +859,6 @@ quizzes:
     date: 2008-08-13
     blog: https://www.s-anand.net/blog/bollywood-actress-jigsaw-quiz/
     transform: mapEnglish
-    render: jigsaw
     body: | #markdown
       I’ve jumbled up pictures of 10 Bollywood actresses. You can move the jumbled blocks around, like a jigsaw. Can you guess the actresses?
     questions:
@@ -885,7 +878,6 @@ quizzes:
     date: 2008-08-22
     blog: https://www.s-anand.net/blog/bollywood-actor-jigsaw-quiz/
     transform: mapEnglish
-    render: jigsaw
     body: | #markdown
       I’ve jumbled up pictures of 10 Bollywood actors. You can move the jumbled blocks around, like a jigsaw. Can you guess the actors?
     questions:
