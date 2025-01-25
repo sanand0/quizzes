@@ -22,7 +22,12 @@ jobs:
           deno-version: v1.x
 
       - name: Build site
-        run: deno run --allow-read --allow-write generate.js
+        env:
+          FILE_CONTENT_BASE64: ${{ secrets.ANSWERS_BASE64 }}
+        run: |
+          echo "$ANSWERS_BASE64" | base64 --decode > .secret.answers.yaml
+          deno run --allow-read --allow-write generate.js
+          rm .secret.answers.yaml
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -30,7 +35,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: "."
 
   deploy:
     needs: build
