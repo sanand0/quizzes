@@ -23,9 +23,8 @@ jobs:
 
       - name: Build site
         env:
-          FILE_CONTENT_BASE64: ${{ secrets.ANSWERS_BASE64 }}
+          ANSWERS_BASE64: ${{ secrets.ANSWERS_BASE64 }}
         run: |
-          echo "$ANSWERS_BASE64" | base64 --decode
           echo "$ANSWERS_BASE64" | base64 --decode > .secret.answers.yaml
           deno run --allow-read --allow-write generate.js
           rm .secret.answers.yaml
