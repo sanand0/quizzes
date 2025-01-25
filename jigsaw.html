@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jigsaw Puzzle</title>
+  <link
+    rel="icon"
+    type="image/svg+xml"
+    href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTUiIGZpbGw9IiMyNTYzZWIiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMTYgNyAyIDcgNyAyLTcgMi0yIDctMi03LTctMiA3LTJaIi8+PC9zdmc+" />
+  <style>
+    .puzzle-piece {
+      position: absolute;
+      width: 80px;
+      height: 60px;
+      cursor: move;
+      user-select: none;
+    }
+  </style>
+</head>
+
+<body>
+  <script>
+    let pic = 0,
+      zi = 100;
+
+    function updatePieces() {
+      document.querySelectorAll(".puzzle-piece").forEach((el) => {
+        const [x, y] = [Math.floor(+el.id / 6), +el.id % 6];
+        el.style.backgroundPosition = `-${80 * x}px -${360 * pic + 60 * y}px`;
+      });
+      pic = (pic + 1) % 3;
+    }
+
+    function createJigsaw(body, img) {
+      for (let i = 0; i < 36; i++) {
+        const x = Math.floor(i / 6);
+        const y = i % 6;
+        const piece = document.createElement("div");
+        piece.className = "puzzle-piece";
+        piece.id = i;
+        piece.style.left = `${80 * x}px`;
+        piece.style.top = `${60 * y}px`;
+        piece.style.backgroundImage = `url("${img}")`;
+
+        // Dragging functionality
+        let isDragging = false;
+        let currentX, currentY;
+
+        piece.addEventListener("mousedown", (e) => {
+          isDragging = true;
+          piece.style.zIndex = zi++;
+          const rect = piece.getBoundingClientRect();
+          currentX = e.clientX - rect.left;
+          currentY = e.clientY - rect.top;
+        });
+
+        document.addEventListener("mousemove", (e) => {
+          if (!isDragging) return;
+          // Grid snapping
+          newX = Math.round((e.clientX - currentX) / 20) * 20;
+          newY = Math.round((e.clientY - currentY) / 15) * 15;
+          piece.style.left = `${newX}px`;
+          piece.style.top = `${newY}px`;
+        });
+
+        document.addEventListener("mouseup", () => (isDragging = false));
+        body.appendChild(piece);
+      }
+
+      updatePieces();
+      setInterval(updatePieces, 3000);
+    }
+
+    createJigsaw(document.body, window.location.href.split(/[\?#]/)[1]);
+  </script>
+</body>
+
+</html>

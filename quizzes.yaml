@@ -1,0 +1,1099 @@
+quizzes:
+  dialogues/english-movie-quotes:
+    title: English Movie Quotes
+    date: 2006-01-20
+    blog: https://www.s-anand.net/blog/movie-quote-quiz/
+    body: | #markdown
+      These are movie quotes. How many titles can you guess? (Use [IMDb](https://www.imdb.com/) titles.)
+    questions:
+      - I’ll be back!
+      - He is the one!
+      - Hakuna Matata!
+      - Get off my plane!
+      - We got a bleeder!
+      - I didn’t kill my wife!
+      - I see dead people…
+      - Somebody stop me!
+      - Hasta la vista, baby!
+      - Beam me up, Scotty.
+      - Show me the money!
+      - I make this look good.
+      - To infinity and beyond.
+      - There can be only one.
+      - Here endeth the lesson.
+      - What can I say? I’m a spy.
+      - You can’t handle the truth!
+      - May the force be with you.
+      - Carpe Diem! Seize the day!
+      - Houston, we have a problem…
+      - Yippie kay-yay, mother@#!%er.
+      - Life is like a box of chocolates…
+      - Vanity… definitely my favourite sin.
+      - Mr. Hadley. Do you trust your wife?
+      - I’ll make him an offer he can’t refuse.
+      - Frankly, my dear, I don’t give a damn.
+      - You make me want to be a better man.
+      - How do you solve a problem like Maria?
+      - Where does he get those wonderful toys?
+      - Everyone’s innocent in here, don’t you know that?
+      - Actually, I’m a chemical superfreak, but I still need a gun.
+      - I’m disinclined to acquiesce to your request… Means ‘no.’
+      - You are without a doubt the worst pirate I’ve ever heard of.
+      - Do you understand the words that are coming out my mouth?
+      - I’m also just a girl, standing in front of a boy, asking him to love me.
+      - In case I don’t see ya…good afternoon, good evening and good night.
+      - You are Horse and Hound’s favourite actress, you and Black Beauty tied.
+      - Supposed I offered you one million dollars for one night with your wife.
+      - How can you do that, look at me like you haven’t seen me everyday for 16 years.
+      - Fear is the path to the dark side, fear leads to anger, anger leads to hate, hate leads to suffering.
+
+  dialogues/book-quotes:
+    title: Book Quotation Quiz
+    date: 2006-04-21
+    blog: https://www.s-anand.net/blog/book-quotation-quiz/
+    body: | #markdown
+      These are quotes from books. How many titles can you guess? (Case insensitive. Ignore punctuation. So “Hitchhiker’s” is “Hitchhikers” without the apostrophe. Don’t forget the leading “A” and “The”. Harry Potter books begin with “Harry Potter and the…”.)
+
+      Anything over 10 / 25 is impressive.
+    questions:
+      - Humbug!
+      - Ici chacal.
+      - Who is John Galt?
+      - Off with his head!
+      - Sayonara, Anjin-san.
+      - Please sir, I’d like some more.
+      - Get up, you tom-fool of a Took!
+      - O, Draconian devil! O lame saint!
+      - Cain is for Charlie. Delta is for Cain.
+      - We’re in the middle of a Seldon crisis.
+      - Remember, the enemy’s gate is down.
+      - Flesh – of the servant – w-willingly given…
+      - Little Miss, he whispered, too low to be heard.
+      - Love means not ever having to say you’re sorry.
+      - It’s my job to know. It’s a disk of pure polonium.
+      - What a lot of things you do use Good Morning for!
+      - Good… morning… Doctor… Chandra… This is… Hal…
+      - Help will always be given at Hogwarts to those who ask for it.
+      - All that is gold does not glitter; Not all those who wander are lost;
+      - She only stopped screaming when she died. It was then that he started to scream.
+      - And when all this land is clean of the servants of Sauron, I will hold the oath fulfilled.
+      - And when he speaks of Irene Adler, … it is always under the honourable title of the woman.
+      - Commander Ryan, my officers and I request political asylum in the United States – and we bring you this small present.
+      - It was times like these when I thought my father, who hated guns and had never been to any wars, was the bravest man who ever lived.
+      - How would you react if I said that I’m not from Guildford after all, but from a small planet somewhere in the vicinity of Betelgeuse?
+
+  tamil-songs/1980:
+    title: Tamil Songs - 1980s
+    date: 2006-05-06
+    blog: https://www.s-anand.net/blog/tamil-songs-1980s/
+    body: | #markdown
+      Ilayaraja ruled the Tamil music industry in the 1980s. Below are short clips with the background music from his hit songs.
+
+      Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    transform: mapTamil
+    questions:
+      - "[Song 1](1980.opus)"
+      - "[Song 2](1981.opus)"
+      - "[Song 3](1982.opus)"
+      - "[Song 4](1983.opus)"
+      - "[Song 5](1984.opus)"
+      - "[Song 6](1985.opus)"
+      - "[Song 7](1986.opus)"
+      - "[Song 8](1987.opus)"
+      - "[Song 9](1988.opus)"
+      - "[Song 10](1989.opus)"
+
+  tamil-songs/1990:
+    title: Tamil Songs - 1990s
+    date: 2006-05-07
+    blog: https://www.s-anand.net/blog/tamil-songs-1990s/
+    body: | #markdown
+      In 1992, A R Rahman emerged. Ilayaraja may have scored more tunes until the first 3 years of the decade than Rahman did the whole decade. But the decade belonged to Rahman.
+
+      Here is the background music from some hit songs from the 1990s. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    transform: mapTamil
+    questions:
+      - "[Song 1](1990s-01.opus)"
+      - "[Song 2](1990s-02.opus)"
+      - "[Song 3](1990s-03.opus)"
+      - "[Song 4](1990s-04.opus)"
+      - "[Song 5](1990s-05.opus)"
+      - "[Song 6](1990s-06.opus)"
+      - "[Song 7](1990s-07.opus)"
+      - "[Song 8](1990s-08.opus)"
+      - "[Song 9](1990s-09.opus)"
+      - "[Song 10](1990s-10.opus)"
+      - "[Song 11](1990s-11.opus)"
+      - "[Song 12](1990s-12.opus)"
+      - "[Song 13](1990s-13.opus)"
+      - "[Song 14](1990s-14.opus)"
+      - "[Song 15](1990s-15.opus)"
+      - "[Song 16](1990s-16.opus)"
+      - "[Song 17](1990s-17.opus)"
+      - "[Song 18](1990s-18.opus)"
+      - "[Song 19](1990s-19.opus)"
+      - "[Song 20](1990s-20.opus)"
+      - "[Song 21](1990s-21.opus)"
+      - "[Song 22](1990s-22.opus)"
+      - "[Song 23](1990s-23.opus)"
+      - "[Song 24](1990s-24.opus)"
+      - "[Song 25](1990s-25.opus)"
+
+  tamil-songs/2000:
+    title: Tamil Songs - 2000s
+    date: 2006-05-08
+    blog: https://www.s-anand.net/blog/tamil-songs-2000s/
+    body: | #markdown
+      The 2000s saw the proliferation of music directors like Vidyasagar, Harris Jayaraj and Yuvan Shankar Raja, while Rahman still continued strong.
+
+      Here is the background music from some hit songs from the 2000s. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    transform: mapTamil
+    questions:
+      - "[Song 1](2000s-01.opus)"
+      - "[Song 2](2000s-02.opus)"
+      - "[Song 3](2000s-03.opus)"
+      - "[Song 4](2000s-04.opus)"
+      - "[Song 5](2000s-05.opus)"
+      - "[Song 6](2000s-06.opus)"
+      - "[Song 7](2000s-07.opus)"
+      - "[Song 8](2000s-08.opus)"
+      - "[Song 9](2000s-09.opus)"
+      - "[Song 10](2000s-10.opus)"
+      - "[Song 11](2000s-11.opus)"
+      - "[Song 12](2000s-12.opus)"
+      - "[Song 13](2000s-13.opus)"
+      - "[Song 14](2000s-14.opus)"
+      - "[Song 15](2000s-15.opus)"
+      - "[Song 16](2000s-16.opus)"
+      - "[Song 17](2000s-17.opus)"
+      - "[Song 18](2000s-18.opus)"
+      - "[Song 19](2000s-19.opus)"
+      - "[Song 20](2000s-20.opus)"
+      - "[Song 21](2000s-21.opus)"
+      - "[Song 22](2000s-22.opus)"
+      - "[Song 23](2000s-23.opus)"
+      - "[Song 24](2000s-24.opus)"
+      - "[Song 25](2000s-25.opus)"
+
+  tamil-songs/1975:
+    title: Tamil Songs - 1975
+    date: 2006-05-09
+    blog: https://www.s-anand.net/blog/tamil-songs-1975s/
+    body: | #markdown
+      Ilayaraja scored Annakkili in 1975, and ruled Tamil film music for 15 years as *isai gnaani*. He took the mantle from MSV, who continued to score great melodies until 1980.
+
+      Here is the background music from some hit songs between 1975 – 1980. Can you guess which **movie** they are from? (Some films appear **twice**)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    transform: mapTamil
+    questions:
+      - "[Song 1](1975s-24.opus)"
+      - "[Song 2](1975s-14.opus)"
+      - "[Song 3](1975s-20.opus)"
+      - "[Song 4](1975s-23.opus)"
+      - "[Song 5](1975s-18.opus)"
+      - "[Song 6](1975s-15.opus)"
+      - "[Song 7](1975s-22.opus)"
+      - "[Song 8](1975s-06.opus)"
+      - "[Song 9](1975s-13.opus)"
+      - "[Song 10](1975s-02.opus)"
+      - "[Song 11](1975s-17.opus)"
+      - "[Song 12](1975s-11.opus)"
+      - "[Song 13](1975s-16.opus)"
+      - "[Song 14](1975s-12.opus)"
+      - "[Song 15](1975s-07.opus)"
+      - "[Song 16](1975s-19.opus)"
+      - "[Song 17](1975s-04.opus)"
+      - "[Song 18](1975s-10.opus)"
+      - "[Song 19](1975s-25.opus)"
+      - "[Song 20](1975s-09.opus)"
+      - "[Song 21](1975s-08.opus)"
+      - "[Song 22](1975s-03.opus)"
+      - "[Song 23](1975s-21.opus)"
+      - "[Song 24](1975s-01.opus)"
+      - "[Song 25](1975s-05.opus)"
+
+  tamil-songs/pb-srinivas:
+    title: Tamil Songs by P B Srinivas
+    date: 2006-05-14
+    blog: https://www.s-anand.net/blog/tamil-songs-by-p-b-srinivas/
+    body: | #markdown
+      Playback singers ruled the day in the 60s and 70s. At least, I remember songs more by the singers than the music directors.
+
+      Here is the background music from some songs from the 1960s and 1970s, sung by **P B Srinivas**. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    transform: mapTamil
+    questions:
+      - "[Song 1](PBS-01.opus)"
+      - "[Song 2](PBS-02.opus)"
+      - "[Song 3](PBS-03.opus)"
+      - "[Song 4](PBS-04.opus)"
+      - "[Song 5](PBS-05.opus)"
+      - "[Song 6](PBS-06.opus)"
+      - "[Song 7](PBS-07.opus)"
+      - "[Song 8](PBS-08.opus)"
+      - "[Song 9](PBS-09.opus)"
+      - "[Song 10](PBS-10.opus)"
+
+  tamil-songs/am-raja:
+    title: Tamil Songs by A M Raja
+    date: 2006-05-15
+    blog: https://www.s-anand.net/blog/tamil-songs-by-a-m-raja/
+    body: | #markdown
+      More songs from the 60s and 70s. These are by **A M Raja**. Can you guess which **movie** they are from? (Some films appear **twice**)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    transform: mapTamil
+    questions:
+      - "[Song 1](AMRaja-01.opus)"
+      - "[Song 2](AMRaja-02.opus)"
+      - "[Song 3](AMRaja-03.opus)"
+      - "[Song 4](AMRaja-04.opus)"
+      - "[Song 5](AMRaja-05.opus)"
+      - "[Song 6](AMRaja-06.opus)"
+      - "[Song 7](AMRaja-07.opus)"
+      - "[Song 8](AMRaja-08.opus)"
+      - "[Song 9](AMRaja-09.opus)"
+      - "[Song 10](AMRaja-10.opus)"
+
+  jigsaw/hollywood-movies-1:
+    title: Movie jigsaw quiz 1
+    date: 2006-05-24
+    blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-1/
+    body: | #markdown
+      These are stills from a Hollywood movie. I’ve jumbled them up. You can **move the jumbled blocks around, like a jigsaw**.
+
+      Can you guess which movie they are from?
+    render: jigsaw
+    questions:
+      - "[Movie 1](j01.jpg)"
+
+  jigsaw/hollywood-movies-2:
+    title: Movie jigsaw quiz 2
+    date: 2006-05-25
+    blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-2/
+    body: | #markdown
+      I’ve jumbled up some stills from movies. You can **move the jumbled blocks around, like a jigsaw**. Can you guess the movie?
+    render: jigsaw
+    questions:
+      - "[Movie 1](j02.jpg)"
+      - "[Movie 2](j03.jpg)"
+      - "[Movie 3](j04.jpg)"
+      - "[Movie 4](j05.jpg)"
+      - "[Movie 5](j06.jpg)"
+
+  jigsaw/tamil-movies:
+    title: Movie jigsaw quiz 3 - Tamil
+    date: 2006-05-26
+    blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-3-tamil/
+    body: | #markdown
+      These are stills from Tamil movies. Each link points to a different movie. I have jumbled the images. You can **move the jumbled blocks around, like a jigsaw**. Can you guess the movie?
+    render: jigsaw
+    questions:
+      - "[Movie 1](j07.jpg)"
+      - "[Movie 2](j08.jpg)"
+      - "[Movie 3](j09.jpg)"
+      - "[Movie 4](j10.jpg)"
+      - "[Movie 5](j11.jpg)"
+
+  jigsaw/hollywood-movies-4:
+    title: Movie jigsaw quiz 4
+    date: 2006-07-19
+    blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-4/
+    body: | #markdown
+      I’ve jumbled up [3 stills from an old movie](j19.jpg). You can move the jumbled blocks around, like a jigsaw. Can you guess the actors and the movie?
+    render: jigsaw
+    questions:
+      - "Actor with dark suit"
+      - "Actor with light suit"
+      - "Actress"
+      - "Movie"
+
+  tamil-songs/1980-ilayaraaja:
+    title: Tamil songs by Ilayaraja in 1980s
+    date: 2006-07-20
+    blog: https://www.s-anand.net/blog/tamil-songs-by-ilayaraja-in-1980s/
+    body: | #markdown
+      More songs by Ilayaraja, composed in the 1980s. Can you guess which **movie** they are from? (Films are NOT repeated)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    transform: mapTamil
+    questions:
+      - "[Song 1](1980s-01.opus)"
+      - "[Song 2](1980s-02.opus)"
+      - "[Song 3](1980s-03.opus)"
+      - "[Song 4](1980s-04.opus)"
+      - "[Song 5](1980s-05.opus)"
+      - "[Song 6](1980s-06.opus)"
+      - "[Song 7](1980s-07.opus)"
+      - "[Song 8](1980s-08.opus)"
+      - "[Song 9](1980s-09.opus)"
+      - "[Song 10](1980s-10.opus)"
+      - "[Song 11](1980s-11.opus)"
+      - "[Song 12](1980s-12.opus)"
+      - "[Song 13](1980s-13.opus)"
+      - "[Song 14](1980s-14.opus)"
+      - "[Song 15](1980s-15.opus)"
+      - "[Song 16](1980s-16.opus)"
+      - "[Song 17](1980s-17.opus)"
+      - "[Song 18](1980s-18.opus)"
+      - "[Song 19](1980s-19.opus)"
+      - "[Song 20](1980s-20.opus)"
+      - "[Song 21](1980s-21.opus)"
+      - "[Song 22](1980s-22.opus)"
+      - "[Song 23](1980s-23.opus)"
+      - "[Song 24](1980s-24.opus)"
+      - "[Song 25](1980s-25.opus)"
+      - "[Song 26](1980s-26.opus)"
+      - "[Song 27](1980s-27.opus)"
+      - "[Song 28](1980s-28.opus)"
+      - "[Song 29](1980s-29.opus)"
+      - "[Song 30](1980s-30.opus)"
+
+  tamil-lyrics/songs:
+    title: Tamil song lyrics quiz 1
+    date: 2006-08-27
+    blog: https://www.s-anand.net/blog/tamil-song-lyrics-quiz-1/
+    body: | #markdown
+      Here are words from the middle of 10 songs. Can you guess which **movie** they are from? (Films are NOT repeated)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+
+      The movies also have a common theme that’s very easy to guess.
+    transform: mapTamil
+    questions:
+      - |
+        என் வாழ்க்கை நதியில் கரை ஒன்று கண்டேன்.
+        உன் நெஞ்சில் ஏனோ கறை ஒன்று கண்டேன்.
+      - |
+        ஏறி கரையில் ஜோடி பறவை எல்லா அழகும் ஆனந்தம்.
+        ஆடும் கடலினுள் ஓடும் படகுகள் அதிலே உலகம் ஆரம்பம்.
+      - |
+        இதயம் என்பது சதைதான் என்றால் எரிதழல் தின்றுவிடும்.
+        அன்பின் கருவி இதயம் என்றால் சாவை வென்றுவிடும்.
+      - |
+        காதல் கொண்டேன் கனவினை வளர்த்தேன்
+        கண்மணி உன்னை நான் கருத்தினில் நிறைத்தேன்
+      - |
+        கன்னத்தில் முத்தத்தின் ஈரம் அது காய வில்லையே.
+        கண்களில் என் இந்த கண்ணீர் அது யாராலே.
+      - |
+        கன்று குட்டி துள்ளும் பொது காலில் என்ன கட்டுப்பாடு.
+        காலம் என்னை வாழ்த்தும் பொது ஆசைக்கென்ன கட்டுப்பாடு.
+      - |
+        மன்மத அம்புகள் தைத்த இடங்களில்.
+        சந்தனமாய் என்னை பூசுகிறேன்.
+      - |
+        நீயோ வானம் விட்டு மண்ணில் வந்த தாரகை.
+        நானோ யாரும் வந்து தங்கிச்செல்லும் மாளிகை.
+      - |
+        தாய் மடியில் பிறந்தோம். தமிழ் மடியில் வளர்ந்தோம்.
+        நடிகரான வளர்ந்தோம். நாடகத்தில் கலந்தோம்.
+      - |
+        உந்தன் உதட்டில் நிறைந்திருக்கும் பழரசம்.
+        அந்த வனத்தில் மறைந்திருக்கும் துளி விஷம்.
+
+  tamil-lyrics/2000-songs:
+    title: Tamil song lyrics quiz 2000s
+    date: 2006-09-03
+    blog: https://www.s-anand.net/blog/tamil-song-lyrics-quiz-2000s/
+    body: | #markdown
+      Here are words from the middle of 10 songs from the 2000s. Can you guess which **movie** they are from? (Films are NOT repeated)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    transform: mapTamil
+    questions:
+      - காதல் ஒன்னும் கடவுள் இல்லையடா. இந்த
+        எழவு எல்லாம் hormones செய்யும் களங்கம் தானடா.
+      - அழகு என்பது ஆண் பாலா பெண் பாலா.
+        என்பதில் எனக்கு சந்தேகம் தீர்ந்தது.
+        அழகு என்பது நிச்சையம் பெண் பாலடா.
+      - காற்றும் கூட எங்களுடன் இரவினில் தூங்க இடம் கேட்கும்.
+        மழைத்துளி கூட என் தாயின் மடியினில் தவழ தினம் ஏங்கும்.
+      - ஒரு பிள்ளை கருவில் கொண்டு ஒரு பிள்ளை கையில் கொண்டு.
+        உறவாடும் யோகம் ஒரு தாய்க்கிணறு.
+      - நிழல்களின் உள்ளே உள்ள நிஜங்களை தேடினேன்.
+        நீயாய் அதை சொல்வாய் என நித்தமும் நான் வாடினேன்.
+      - பெண்களை நிமிர்ந்தும் பார்த்திடா உன் இனிய கண்ணியம் பிடிக்குதே.
+        கண்களை நேராய் பார்த்துதான் நீ பேசும் தோரணை பிடிக்குதே.
+      - காதல் மட்டும் புரிவதில்லை. காற்றா நெருப்பா தெரிவதில்லை.
+        காதல் தந்த மூர்ச்சை நிலை நான் கண்கள் திறந்தும் தெளியவில்லை.
+      - சின்ன சின்ன தொட்டில் கட்டி அம்மா சொல்லும் ஆரிராரோ இசைதானே.
+        ஆணும் பெண்ணும் கட்டில் கட்டி ஆசைமெட்டு கட்டுறதும் இசைதானே.
+      - கேட்காத ஓசைகள். இதழ் தாண்டாத வார்த்தைகள்.
+        இமை ஆடாத பார்வைகள். இவை நான் கொண்ட மாற்றங்கள்.
+      - எங்கேயும் போகாமல் தினம் வீட்டிலேயே நீ வேண்டும்.
+        சில சமயம் விளையாட்டாய் உன் ஆடைகுள்ளே நான் வேண்டும்.
+
+  tamil-lyrics/1995-songs:
+    title: Tamil song lyrics quiz 1995s
+    date: 2006-09-05
+    blog: https://www.s-anand.net/blog/tamil-song-lyrics-quiz-1995s/
+    transform: mapTamil
+    body: | #markdown
+      Here are words from the middle of 10 songs from 1995-1999. Can you guess which **movie** they are from? (Films are NOT repeated)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - வெய்யில் வெப்பம் ஆனந்தம் மழையின் சத்தம் ஆனந்தம்.
+        அட மழையில் கூட சாயம் போகா வானவில் ஆனந்தம்.
+      - சூாியன ரெண்டு துண்டு செஞ்சு கண்ணில் கொண்டவளோ.
+        சந்திரன கள்ளுக்குள்ள ஊர வெச்ச பெண்ணிவளோ.
+      - புயல் வந்து போனதொரு வனமாய் ஆனதடி என்னுள்ளம்.
+        என் நெஞ்சில் உனது கரம் வைத்தால் என் நிலமை அது சொல்லும்.
+      - ஒரு சின்னப்ப பூத்திரியில் ஒளி சிந்தும் ராத்திரியில்
+        இந்த மெத்தை மேல் இளம் தத்தைக்கோர் புது வித்தை காட்டிடவா.
+      - நண்பன் ஒருவன் வந்த பிறகு விண்ணை தொடலாம் உந்தன் சிறகு.
+        வானுக்கும் எல்லை உண்டு நட்புக்கில்லையே.
+      - நான் கேட்கும் பதில் இன்று வாராதா.
+        நான் தூங்க வழி ஒன்று தாராதா.
+      - முடி குத்தும் உந்தன் மார்பு என் பஞ்சு மெத்தையோ.
+        என் உயிர் பிரிக்கும் முத்தம் அது என்ன வித்தையோ.
+      - மலையோரம் மலையோரம் மனம் அலையுது கரையோரம்.
+        விளையாடும் விளையாடும் எங்கள் தமிழ் அதை கவிபாடும்.
+      - என் அழகென்ன என் தொழில் என்ன ஏன் என்னோடு உன் காதல் உண்டாச்சு.
+        சிறு கண்ணீராய் நான் தவழ்ந்தேனே இதில் எப்போது மின்சாரம் உண்டாச்சு.
+      - பூமியை வெல்ல ஆயுதம் எதற்கு பூப்பறிக்க கோடரி எதற்கு.
+        பொன்னோ பொருளோ போர்க்களம் எதற்கு ஆசை துறந்தால் அகிலம் உனக்கு.
+
+  tamil-lyrics/1990-songs:
+    title: Tamil song lyrics quiz 1990s
+    date: 2006-09-06
+    blog: https://www.s-anand.net/blog/tamil-song-lyrics-quiz-1990s/
+    transform: mapTamil
+    body: | #markdown
+      Here are words from the middle of 10 songs from 1990-1994. Can you guess which **movie** they are from? (Films are NOT repeated)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - ஆறாத ஆசைகள் தோன்றும் என்னை தூண்டும்.
+        ஆனாலும் வாய் பேச அஞ்சும் இந்த நெஞ்சம்.
+      - இது மாற்றமா தடுமாற்றமா என் நெஞ்சிலே பனி மூட்டமா.
+        நீ தோழியா இல்லை எதிரியா என்று தினமும் போராட்டமா.
+      - குழலினில் வராத ராகம் யாவுமென் குரலினில் வராததா.
+        எந்தன் மனமிது எந்தன் நினைவிது என்றே புரிகிறதா.
+      - மெல்லிய தாமரை காலெடுத்து நடையை பழகும் பூந்தேரு.
+        மெட்டியை காலில் நான் மாட்ட மயங்கும் பூங்கொடி.
+      - பொன்மகள் மூச்சு விட்டால் பூ மலராதோ.
+        பூ மகளின் வாய் மொழியே பூஜைக்கு வேதங்களோ.
+      - சொல்லுக்கும் தெரியாமல் சொல்லத்தான் வந்தேனே.
+        சொல்லுக்குள் அர்த்தம் போலே சொல்லாமல் நின்றேனே.
+      - சொந்த ஆகாயம் வேண்டும். ஜோடி நிலவொன்று வேண்டும்.
+        நெற்றி வேர்க்கின்ற போது அந்த நிலவில் மழை பெய்ய வேண்டும்.
+      - தன்னந்தனிச்சிருக்க தத்தளிச்சு தானிருக்க.
+        ஒன் நெனப்பில் நான் பறிச்சேன் தாமரையே.
+      - உன் புடவை முந்தானை சாய்ந்ததில் இந்த பூமி பூப்பூத்தது.
+        இது கம்பன் பாடாத சிந்தனை உந்தன் காதோடு யார் சொன்னது.
+      - வாய் மொழியும் எந்தன் தாய் மொழியும் இன்று வசப்படவில்லையடி.
+        வயிற்றுக்கும் தொண்டைக்கும் உருவம் இல்லா ஒரு உருண்டையும் உருளுதடி.
+
+  tamil-lyrics/1985-songs:
+    title: Tamil song lyrics quiz 1985s
+    date: 2006-09-07
+    blog: https://www.s-anand.net/blog/tamil-song-lyrics-quiz-1985s/
+    transform: mapTamil
+    body: | #markdown
+      Here are words from the middle of 10 songs from 1985-1989. Can you guess which **movie** they are from? (Films are NOT repeated)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - உள்ள அழுகுறேன் வெளிய சிரிக்கிறேன்.
+        நல்ல வேஷம்தான் வெளுத்து வாங்குறேன்.
+      - கன்னிப் பொண்ணு கண்ணுக்குள்ள கத்திச்சண்டை கண்டாயோ.
+        படபடக்கும் நெஞ்சுக்குள்ள பட்டாம்பூச்சி பார்த்தாயா.
+      - மேடையைப்போலே வாழ்க்கை அல்ல நாடகம் ஆனதும் விலகிச் செல்ல.
+        ஓடையைப்போலே உறவும் அல்ல பாதைகள் மாறியே பயணம் செல்ல.
+      - இசை மழை எங்கும் பொழிகிறது.
+        எங்களின் ஜீவன் நனைகிறது.
+      - எந்நாளும் தென்றல் வந்து வீசிடும்.
+        என்னோடு தோழி போல பேசிடும்.
+      - நாளும் நிலவது தேயுது மறையுது.
+        நங்கை முகமென யாரதைச் சொன்னது.
+      - மந்திரங்கள் காதில் சொல்லும் இந்திரனின் ஜாலமோ.
+        சந்திரர்கள் சூரியர்கள் போவதென்ன மாயமோ.
+      - வாடா நண்பனே வேளை நல்ல வேளைதான்.
+        வேளை வந்தபின் வேறு என்ன வேலைதான்.
+      - கூற பட்டுச்சேல அம்மா கூட ஒரு மால.
+        வாங்கி வரும் வௌ பொண்ணு வாசமுள்ள சோல.
+      - கொட்டும் மழை காலம் உப்பு விக்க போனேன்.
+        காத்தடிக்கும் நேரம் மாவு விற்க போனேன்.
+
+  tamil-lyrics/1980-dappanguthus:
+    title: Tamil song lyrics quiz 1980s dappanguthus
+    date: 2006-09-08
+    blog: https://www.s-anand.net/blog/tamil-song-lyrics-quiz-1980s-dappanguthus/
+    transform: mapTamil
+    body: | #markdown
+      Here are words from the middle of 10 songs from 1980-1990. They are all *dappanguthus* — or at least, fast songs. Can you guess which **movie** they are from?
+
+      Note: I’ve made this quiz **a little tougher** than the earlier ones.
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - பாத மலர் நோகுமுன்னு நடக்கும் பாத வழி பூ விரிச்சேன்
+      - சோளக்காட்டு மூலையில ஒரு சோடி ஒன்னு சேர்ந்திருச்சு
+      - நான் போறேன் முன்னாலே நீ வாடி பின்னாலே நாயக்கர் தோட்டத்திற்கு
+      - மூஞ்சிய தூக்காம காஞ்சிப்புரப்பட்டு வாங்கிக்கொடுக்கணும் டோய்
+      - ஆத்தங்கரையோரம் பூத்திருக்கும் அழகுப்பூவாசம்
+      - அங்கே தினம் முத்தம் இடும் சத்தம் வருது.
+        இங்கே அது வந்தால் பெரும் குத்தம் வருது.
+      - ஏரிக்கரை காத்தும் ஏலேலேலோ பாட்டும் இங்கே ஏதும் கேட்கவில்லையே
+      - கழுத கூட நல்லா பாடும் கேட்டு பாரு உனக்கு புரியும்
+      - புது ராகம் படைப்பதாலே நானும் இறைவனே
+      - புட்டி தொட்டதால புத்தி கெட்டு போனேன்.
+        ஊறுகாய கொண்டா ஒன்னையும் தொட்டுக்குறேன்.
+
+  dialogues/english-movie-romances:
+    title: English movie romances
+    date: 2006-09-13
+    blog: https://www.s-anand.net/blog/english-movie-romances/
+    transform: mapEnglish
+    body: | #markdown
+      I’ve mentioned the lead pair of famous romantic English movies. How many titles can you guess?
+    questions:
+      - Cary Grant and Deborah Kerr
+      - Hugh Grant and Julia Roberts
+      - Richard Gere and Julia Roberts
+      - Cary Grant and Audrey Hepburn
+      - Cary Elwes and Robin Wright Penn
+      - Humphrey Bogart and Ingrid Bergman
+      - Clark Gable and Claudette Colbert
+      - Yul Brynner and Deborah Kerr
+      - Leonardo Di Caprio and Kate Winslet
+      - Jack Lemmon and Marilyn Monroe
+      - Cary Grant and Grace Kelly
+      - Tom Hanks and Meg Ryan (1st film)
+      - Peter O’Toole and Audrey Hepburn
+      - Billy Crystal and Meg Ryan
+      - Christopher Plummer and Julie Andews
+      - James Stewart and Donna Reed
+      - Rex Harrison and Audrey Hepburn
+      - Ewan McGregor and Nicole Kidman
+      - Bill Murray and Andie MacDowell
+      - Steve Martin and Daryl Hannah
+      - Patrick Swayze and Demi Moore
+      - Gregory Peck and Audrey Hepburn
+      - Jack Lemmon and Shirley MacLaine
+      - Cary Grant and Katherine Hepburn
+      - Harrison Ford and Julia Ormond
+
+  jigsaw/kamal-tamil-movies:
+    title: Movie jigsaw quiz 5 – Tamil
+    date: 2006-09-14
+    blog: https://www.s-anand.net/blog/movie-jigsaw-quiz-5-tamil/
+    transform: mapTamil
+    render: jigsaw
+    body: | #markdown
+      These are stills from Kamal’s movies. Each link points to a different movie. I have jumbled the images. You can **move the jumbled blocks around, like a jigsaw**. Can you guess the movie?
+    questions:
+      - "[Movie 1](j13.jpg)"
+      - "[Movie 2](j14.jpg)"
+      - "[Movie 3](j15.jpg)"
+      - "[Movie 4](j16.jpg)"
+      - "[Movie 5](j17.jpg)"
+
+  tamil-lyrics/tms-sivaji-songs:
+    title: Tamil song lyrics quiz – TMS Sivaji
+    date: 2006-09-24
+    blog: https://www.s-anand.net/blog/tamil-song-lyrics-quiz-tms-sivaji/
+    transform: mapTamil
+    body: | #markdown
+      Here are words from the middle of 10 songs TMS has sung for Sivaji. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - சிறகில் எனை மூடி அருமை மகள் போல வளர்த்த கதை சொல்லவா.
+        கனவில் நினையாத காலம் இடை வந்து பிரித்த கதை சொல்லவா.
+      - வெள்ளி அலை மேலே துள்ளும் கயல் போலே.
+        அல்லி விழி தாவ கண்டேன் என் மேலே.
+      - உந்தன் மீன் விழிகளை காணும் நதியின் மீன்களும் துள்ளி ஆடுதே.
+        காண் எழில் முகம் வான் மதியென அல்லியும் உம்மை நாடுதே.
+      - நடமாடும் மேகம் நவ நாகரீகம்.
+        அலங்காரச் சின்னம் அலை போல மின்னும்.
+      - சிங்கத்தின் கால்கள் பழுது பட்டாலும் சீற்றம் குறைவதுண்டோ.
+        உங்கள் சிந்தையும் செயலும் ஒன்று பட்டாலே மாற்றம் காண்பதுண்டோ.
+      - கன்னி தமிழ் தந்ததொரு திருவாசகம்.
+        கல்லை கனி ஆக்கும் உந்தன் ஒரு வாசகம்.
+      - என் மனம் நீ அறிவாய். உந்தன் எண்ணமும் நான் அறிவேன்.
+        இன்னமும் ஊமையைப் போல் மெளனம் ஏனடி தேன்மொழியே.
+      - பறவையை கண்டான். விமானம் படைத்தான்.
+        பாயும் மீன்களில் படகினை கண்டான்.
+      - சொல்லென்றும் மொழி என்றும் பொருள் என்றும் இல்லை.
+        சொல்லாத சொல்லுக்கு விலையேதும் இல்லை.
+      - வார்த்தை வந்ததும் வாய் திறந்ததா.
+        வாய் திறந்ததும் வார்த்தை வந்ததா.
+
+  tamil-lyrics/tms-mgr-songs:
+    title: Tamil song lyrics quiz – TMS MGR
+    date: 2006-09-27
+    blog: https://www.s-anand.net/blog/tamil-song-lyrics-quiz-tms-mgr/
+    transform: mapTamil
+    body: | #markdown
+      Here are words from the middle of 8 songs TMS has sung for MGR. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - இருவர் ஒன்றானால் ஒருவர் என்றானால்.
+        இருவர் ஒன்றானால் இளமை முடிவதில்லை.
+      - ஒரு தவறு செய்தால் அதைத் தெரிந்து செய்தால்.
+        அவன் தேவன் என்றாலும் விட மாட்டேன்.
+      - அவள் இல்லாமல் நான் இல்லை
+        நான் இல்லாமல் அவள் இல்லை
+      - காற்று நம்மை அடிமை என்று விலகவில்லையே.
+        கடலும் நீரும் அடிமை என்று சுடுவதில்லையே.
+      - முல்லை பூவில் ஆடும் கரு வண்டாகவே.
+        முகில் முன்னே ஆடும் வண்ண மயில் போலவே.
+        அன்பை நாடி நாடி உந்தன் அருகில் வந்து நின்றேன்.
+        இன்பம் என்னும் பொருளை இங்கு கண்டேன்.
+      - நீல வானம் இல்லாத ஊரே இல்லை.
+        உலகினில் மழை இன்றி ஏதும் இல்லை.
+        அமுதே உனை அன்றி வாழ்வே இல்லை.
+        அன்பே இது உண்மையே.
+      - அந்த ஒரு நாள் ஆனந்தத் திருனாள்.
+        இன்று நினைத்தால் என்னென்ன சுகமோ.
+        பாதி விழிகள் மூடிக் கிடந்தேன்.
+        பாவை மேனியிலே.
+      - புதிய சூரியனின் பார்வையிலே.
+        உலகம் விழித்துக் கொண்ட வேளையிலே.
+
+  hindi-songs/2000:
+    title: Hindi song 2000s
+    date: 2006-10-08
+    blog: https://www.s-anand.net/blog/hindi-song-2000s/
+    transform: mapHindi
+    body: | #markdown
+      Here is the background music from some Hindi songs from the 2000s. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](h2000-01.opus)"
+      - "[Song 2](h2000-02.opus)"
+      - "[Song 3](h2000-03.opus)"
+      - "[Song 4](h2000-04.opus)"
+      - "[Song 5](h2000-05.opus)"
+      - "[Song 6](h2000-06.opus)"
+      - "[Song 7](h2000-07.opus)"
+      - "[Song 8](h2000-08.opus)"
+      - "[Song 9](h2000-09.opus)"
+      - "[Song 10](h2000-10.opus)"
+
+  hindi-songs/1995:
+    title: Hindi song 1995s
+    date: 2006-10-12
+    blog: https://www.s-anand.net/blog/hindi-song-1995s/
+    transform: mapHindi
+    body: | #markdown
+      Here is the background music from some Hindi songs between 1995-2000. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](h1995-01.opus)"
+      - "[Song 2](h1995-02.opus)"
+      - "[Song 3](h1995-03.opus)"
+      - "[Song 4](h1995-04.opus)"
+      - "[Song 5](h1995-05.opus)"
+      - "[Song 6](h1995-06.opus)"
+      - "[Song 7](h1995-07.opus)"
+      - "[Song 8](h1995-08.opus)"
+      - "[Song 9](h1995-09.opus)"
+      - "[Song 10](h1995-10.opus)"
+
+  dialogues/english-movie-dialogues:
+    title: English movie dialogues quiz
+    date: 2006-11-27
+    blog: https://www.s-anand.net/blog/english-movie-dialogues-quiz/
+    transform: mapEnglish
+    body: | #markdown
+      Here are dialogues from famous English movies. Can you guess which **movie** they are from?
+
+      (Don’t forget *The* in front of some movies.)
+    questions:
+      - "[Dialogue 1](ed1-01.opus)"
+      - "[Dialogue 2](ed1-02.opus)"
+      - "[Dialogue 3](ed1-03.opus)"
+      - "[Dialogue 4](ed1-04.opus)"
+      - "[Dialogue 5](ed1-05.opus)"
+      - "[Dialogue 6](ed1-06.opus)"
+      - "[Dialogue 7](ed1-07.opus)"
+      - "[Dialogue 8](ed1-08.opus)"
+      - "[Dialogue 9](ed1-09.opus)"
+      - "[Dialogue 10](ed1-10.opus)"
+      - "[Dialogue 11](ed1-11.opus)"
+      - "[Dialogue 12](ed1-12.opus)"
+      - "[Dialogue 13](ed1-13.opus)"
+      - "[Dialogue 14](ed1-14.opus)"
+      - "[Dialogue 15](ed1-15.opus)"
+
+  jigsaw/hollywood-actors:
+    title: Hollywood actors jigsaw quiz
+    date: 2006-12-20
+    blog: https://www.s-anand.net/blog/hollywood-actors-jigsaw-quiz/
+    transform: mapEnglish
+    render: jigsaw
+    body: | #markdown
+      I’ve jumbled up pictures of 5 highly paid Hollywood actors. You can move the jumbled blocks around, like a jigsaw. Can you guess the actors and the movie?
+    questions:
+      - "[Actor 1](j20.jpg)"
+      - "[Actor 2](j21.jpg)"
+      - "[Actor 3](j22.jpg)"
+      - "[Actor 4](j23.jpg)"
+      - "[Actor 5](j24.jpg)"
+
+  hindi-songs/sd-burman:
+    title: SD Burman songs quiz
+    date: 2007-03-20
+    blog: https://www.s-anand.net/blog/sd-burman-songs-quiz/
+    transform: mapHindi
+    body: | #markdown
+      Here is the background music from SD Burman’s songs. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](SDB-01.opus)"
+      - "[Song 2](SDB-02.opus)"
+      - "[Song 3](SDB-03.opus)"
+      - "[Song 4](SDB-04.opus)"
+      - "[Song 5](SDB-05.opus)"
+      - "[Song 6](SDB-06.opus)"
+      - "[Song 7](SDB-07.opus)"
+      - "[Song 8](SDB-08.opus)"
+      - "[Song 9](SDB-09.opus)"
+      - "[Song 10](SDB-10.opus)"
+
+  tamil-lyrics/old-songs:
+    title: Tamil old song lyrics quiz
+    date: 2007-04-06
+    blog: https://www.s-anand.net/blog/tamil-old-song-lyrics-quiz/
+    transform: mapTamil
+    body: | #markdown
+      Here are words from the middle of 15 old songs (before 1970). Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - அன்பு காதலன் வந்தான் காற்றோடு.
+        அவள் நாணத்தை மறந்தாள் நேற்றோடு.
+      - அரண்மனை அறிவான் அரியணை அறிவான்.
+        அந்தப்புரம் ஒன்று இருப்பதை அறியான்.
+      - மேலாடை நீந்தும் பாலாடை மேனி.
+        நீராட ஓடிவா நீராட ஓடிவா.
+      - நின்மதி வதனமும் நீள் விழியும் கண்டு.
+        என்மதி மயங்கினேன் மூன்று உலகிலும்.
+      - நாளும் கிழமையும் போட்டுக்க
+        ஒரு நகைநட்டுண்டா நேக்கு.
+      - தவறினை பொறுப்பாள் தர்மத்தை வளர்ப்பாள்.
+        தரணியிலே வளம் சேர்த்திடுவாள்.
+      - காதல் தெய்வீக ராணி போதை உண்டாகுதே நீ
+        கண்ணே என் மனதை விட்டுத் துள்ளாதே
+      - ஏளா முத்தம்மா உம்மனசு எம்புட்டு
+        என் கிட்டத்தான் சொல்லுடியம்மா
+      - அல்லித்தண்டு போலவே துள்ளி ஆடும் மேனியை
+        வெள்ளி நிலா அள்ளிக்கொண்டதோ
+      - கன்னி என் ஆசை காதலே கண்டேன் மணாளன் நேரிலே.
+        என் ஆசை காதல் இன்பம் உண்டோ தோழி நீ சொல் என்றேன்.
+      - குழல் என்றும் யாழ் என்றும் சிலர் கூறுவார்.
+        என் குரல் கேட்ட பின்னாலே அவர் மாறுவார்.
+      - முற்றாத இரவொன்றில் நான் வாட.
+        முடியாத கதை ஒன்று நீ பேச.
+      - உயர்ந்த மலையும் உமது அன்பின் உயர்வைக் காட்டுதே.
+        இதயம் அந்த மலைக்கு ஏது அன்பைக் காட்டவே.
+      - பாவாடை காற்றோடு ஆட.
+        பருவங்கள் பந்தாட ஆட.
+      - நிலைமைக்கு மேலே நினைப்பு வந்தால்
+        நிம்மதி இருக்காது அய்யா நிம்மதி இருக்காது
+
+  tamil-songs/2006:
+    title: Tamil song quiz 2006-2007
+    date: 2007-06-08
+    blog: https://www.s-anand.net/blog/tamil-song-quiz-2006-2007/
+    transform: mapTamil
+    body: | #markdown
+      Here is the background music from some Tamil songs from 2006-2007. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green. (A couple of spellings are tricky. Try **J** instead of **S** and **V** instead of **G**.)
+    questions:
+      - "[Song 1](2006-01.opus)"
+      - "[Song 2](2006-02.opus)"
+      - "[Song 3](2006-03.opus)"
+      - "[Song 4](2006-04.opus)"
+      - "[Song 5](2006-05.opus)"
+      - "[Song 6](2006-06.opus)"
+      - "[Song 7](2006-07.opus)"
+      - "[Song 8](2006-08.opus)"
+      - "[Song 9](2006-09.opus)"
+      - "[Song 10](2006-10.opus)"
+
+  tamil-songs/enchanting-first-interludes:
+    title: Tamil songs quiz – Enchanting first interludes
+    date: 2007-12-27
+    blog: https://www.s-anand.net/blog/tamil-songs-quiz-enchanting-first-interludes/
+    transform: mapTamil
+    body: | #markdown
+      Some background scores just stay in your mind. Here is a tribute to 20 wonderful first interludes, dating from the 1980s to the 2000s. Can you guess which **movies** they are from? (My intention here is not to make this tough, but rather to let you enjoy the music. So hope to see most of you score 20/20)
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](EFI-01.opus)"
+      - "[Song 2](EFI-02.opus)"
+      - "[Song 3](EFI-03.opus)"
+      - "[Song 4](EFI-04.opus)"
+      - "[Song 5](EFI-05.opus)"
+      - "[Song 6](EFI-06.opus)"
+      - "[Song 7](EFI-07.opus)"
+      - "[Song 8](EFI-08.opus)"
+      - "[Song 9](EFI-09.opus)"
+      - "[Song 10](EFI-10.opus)"
+      - "[Song 11](EFI-11.opus)"
+      - "[Song 12](EFI-12.opus)"
+      - "[Song 13](EFI-13.opus)"
+      - "[Song 14](EFI-14.opus)"
+      - "[Song 15](EFI-15.opus)"
+      - "[Song 16](EFI-16.opus)"
+      - "[Song 17](EFI-17.opus)"
+      - "[Song 18](EFI-18.opus)"
+      - "[Song 19](EFI-19.opus)"
+      - "[Song 20](EFI-20.opus)"
+
+  jigsaw/bollywood-actresses:
+    title: Bollywood actress jigsaw quiz
+    date: 2008-08-13
+    blog: https://www.s-anand.net/blog/bollywood-actress-jigsaw-quiz/
+    transform: mapEnglish
+    render: jigsaw
+    body: | #markdown
+      I’ve jumbled up pictures of 10 Bollywood actresses. You can move the jumbled blocks around, like a jigsaw. Can you guess the actresses?
+    questions:
+      - "[Actress 1](j25.jpg)"
+      - "[Actress 2](j26.jpg)"
+      - "[Actress 3](j27.jpg)"
+      - "[Actress 4](j28.jpg)"
+      - "[Actress 5](j29.jpg)"
+      - "[Actress 6](j30.jpg)"
+      - "[Actress 7](j31.jpg)"
+      - "[Actress 8](j32.jpg)"
+      - "[Actress 9](j33.jpg)"
+      - "[Actress 10](j34.jpg)"
+
+  jigsaw/bollywood-actors:
+    title: Bollywood actor jigsaw quiz
+    date: 2008-08-22
+    blog: https://www.s-anand.net/blog/bollywood-actor-jigsaw-quiz/
+    transform: mapEnglish
+    render: jigsaw
+    body: | #markdown
+      I’ve jumbled up pictures of 10 Bollywood actors. You can move the jumbled blocks around, like a jigsaw. Can you guess the actors?
+    questions:
+      - "[Actor 1](j35.jpg)"
+      - "[Actor 2](j36.jpg)"
+      - "[Actor 3](j37.jpg)"
+      - "[Actor 4](j38.jpg)"
+      - "[Actor 5](j39.jpg)"
+      - "[Actor 6](j40.jpg)"
+      - "[Actor 7](j41.jpg)"
+      - "[Actor 8](j42.jpg)"
+      - "[Actor 9](j43.jpg)"
+      - "[Actor 10](j44.jpg)"
+
+  tamil-songs/2008:
+    title: Tamil song quiz 2008
+    date: 2008-09-08
+    blog: https://www.s-anand.net/blog/tamil-song-quiz-2008/
+    transform: mapTamil
+    body: | #markdown
+      Here is the background music from some songs from 2008. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green. (One spelling is tricky. Try **M** instead of **N** at the end.)
+    questions:
+      - "[Song 1](2008-01.opus)"
+      - "[Song 2](2008-02.opus)"
+      - "[Song 3](2008-03.opus)"
+      - "[Song 4](2008-04.opus)"
+      - "[Song 5](2008-05.opus)"
+      - "[Song 6](2008-06.opus)"
+      - "[Song 7](2008-07.opus)"
+      - "[Song 8](2008-08.opus)"
+      - "[Song 9](2008-09.opus)"
+      - "[Song 10](2008-10.opus)"
+
+  tamil-songs/mgr:
+    title: MGR songs quiz 1
+    date: 2008-09-14
+    blog: https://www.s-anand.net/blog/mgr-songs-quiz-1/
+    transform: mapTamil
+    body: | #markdown
+      Here is the first interlude and the first line from some MGR songs. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](MGR1-01.opus)"
+      - "[Song 2](MGR1-02.opus)"
+      - "[Song 3](MGR1-03.opus)"
+      - "[Song 4](MGR1-04.opus)"
+      - "[Song 5](MGR1-05.opus)"
+      - "[Song 6](MGR1-06.opus)"
+      - "[Song 7](MGR1-07.opus)"
+      - "[Song 8](MGR1-08.opus)"
+      - "[Song 9](MGR1-09.opus)"
+      - "[Song 10](MGR1-10.opus)"
+
+  tamil-songs/ar-rahman:
+    title: A R Rahman songs
+    date: 2009-03-01
+    blog: https://www.s-anand.net/blog/a-r-rahman-songs/
+    transform: mapTamil
+    body: | #markdown
+      A tribute to our [Academy Award winner, A R Rahman](http://en.wikipedia.org/wiki/81st_Academy_Awards_nominees_and_winners). Here are interludes from 25 Tamil songs of A R Rahman. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](ARR-01.opus)"
+      - "[Song 2](ARR-02.opus)"
+      - "[Song 3](ARR-03.opus)"
+      - "[Song 4](ARR-04.opus)"
+      - "[Song 5](ARR-05.opus)"
+      - "[Song 6](ARR-06.opus)"
+      - "[Song 7](ARR-07.opus)"
+      - "[Song 8](ARR-08.opus)"
+      - "[Song 9](ARR-09.opus)"
+      - "[Song 10](ARR-10.opus)"
+      - "[Song 11](ARR-11.opus)"
+      - "[Song 12](ARR-12.opus)"
+      - "[Song 13](ARR-13.opus)"
+      - "[Song 14](ARR-14.opus)"
+      - "[Song 15](ARR-15.opus)"
+      - "[Song 16](ARR-16.opus)"
+      - "[Song 17](ARR-17.opus)"
+      - "[Song 18](ARR-18.opus)"
+      - "[Song 19](ARR-19.opus)"
+      - "[Song 20](ARR-20.opus)"
+      - "[Song 21](ARR-21.opus)"
+      - "[Song 22](ARR-22.opus)"
+      - "[Song 23](ARR-23.opus)"
+      - "[Song 24](ARR-24.opus)"
+      - "[Song 25](ARR-25.opus)"
+
+  hindi-songs/ar-rahman:
+    title: A R Rahman Hindi songs
+    date: 2009-03-11
+    blog: https://www.s-anand.net/blog/a-r-rahman-hindi-songs/
+    transform: mapHindi
+    body: | #markdown
+      By popular demand, here are interludes from 15 Hindi songs of A R Rahman. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](ARRH-01.opus)"
+      - "[Song 2](ARRH-02.opus)"
+      - "[Song 3](ARRH-03.opus)"
+      - "[Song 4](ARRH-04.opus)"
+      - "[Song 5](ARRH-05.opus)"
+      - "[Song 6](ARRH-06.opus)"
+      - "[Song 7](ARRH-07.opus)"
+      - "[Song 8](ARRH-08.opus)"
+      - "[Song 9](ARRH-09.opus)"
+      - "[Song 10](ARRH-10.opus)"
+      - "[Song 11](ARRH-11.opus)"
+      - "[Song 12](ARRH-12.opus)"
+      - "[Song 13](ARRH-13.opus)"
+      - "[Song 14](ARRH-14.opus)"
+      - "[Song 15](ARRH-15.opus)"
+
+  tamil-songs/2012:
+    title: Recent Tamil Songs Quiz
+    date: 2009-03-11
+    blog: https://www.s-anand.net/blog/recent-tamil-songs-quiz/
+    transform: mapTamil
+    body: | #markdown
+      After a long break, here’s another quiz, featuring relatively recent Tamil songs before 2012. Can you guess which **movie** they are from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](RTS-01.opus)"
+      - "[Song 2](RTS-02.opus)"
+      - "[Song 3](RTS-03.opus)"
+      - "[Song 4](RTS-04.opus)"
+      - "[Song 5](RTS-05.opus)"
+      - "[Song 6](RTS-06.opus)"
+      - "[Song 7](RTS-07.opus)"
+      - "[Song 8](RTS-08.opus)"
+      - "[Song 9](RTS-09.opus)"
+      - "[Song 10](RTS-10.opus)"
+      - "[Song 11](RTS-11.opus)"
+      - "[Song 12](RTS-12.opus)"
+      - "[Song 13](RTS-13.opus)"
+      - "[Song 14](RTS-14.opus)"
+      - "[Song 15](RTS-15.opus)"
+      - "[Song 16](RTS-16.opus)"
+      - "[Song 17](RTS-17.opus)"
+      - "[Song 18](RTS-18.opus)"
+      - "[Song 19](RTS-19.opus)"
+      - "[Song 20](RTS-20.opus)"
+
+  dialogues/nagesh-comedy-dialogues:
+    title: Nagesh Comedy Dialogues Quiz
+    date: 2021-01-02
+    blog: https://www.s-anand.net/blog/nagesh-comedy-dialogues-quiz/
+    transform: mapTamil
+    body: | #markdown
+      Here are dialogues from [Nagesh](https://en.wikipedia.org/wiki/Nagesh)‘s films. Can you guess which **movie** they’re from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Dialogue 1](NC-01.opus)"
+      - "[Dialogue 2](NC-02.opus)"
+      - "[Dialogue 3](NC-03.opus)"
+      - "[Dialogue 4](NC-04.opus)"
+      - "[Dialogue 5](NC-05.opus)"
+      - "[Dialogue 6](NC-06.opus)"
+      - "[Dialogue 7](NC-07.opus)"
+      - "[Dialogue 8](NC-08.opus)"
+      - "[Dialogue 9](NC-09.opus)"
+      - "[Dialogue 10](NC-10.opus)"
+
+  tamil-songs/harris-jayaraj-first-interludes:
+    title: Harris Jayaraj First interludes
+    date: 2021-02-12
+    blog: https://www.s-anand.net/blog/harris-jayaraj-first-interludes/
+    transform: mapTamil
+    body: | #markdown
+      Here are beautiful first interludes from [Harris Jayaraj](https://en.wikipedia.org/wiki/Harris_Jayaraj)‘s Tamil film songs. Can you guess which **movie** they’re from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Song 1](HJFI-01.opus)"
+      - "[Song 2](HJFI-02.opus)"
+      - "[Song 3](HJFI-03.opus)"
+      - "[Song 4](HJFI-04.opus)"
+      - "[Song 5](HJFI-05.opus)"
+      - "[Song 6](HJFI-06.opus)"
+      - "[Song 7](HJFI-07.opus)"
+      - "[Song 8](HJFI-08.opus)"
+      - "[Song 9](HJFI-09.opus)"
+      - "[Song 10](HJFI-10.opus)"
+
+  dialogues/vadivelu-comedy-dialogues:
+    title: Vadivelu Comedy Dialogues
+    date: 2021-02-21
+    blog: https://www.s-anand.net/blog/vadivelu-comedy-dialogues/
+    transform: mapTamil
+    body: | #markdown
+      Here are some famous funny dialogues by Tamil comedian [Vadivelu](https://en.wikipedia.org/wiki/Vadivelu). Can you guess which **movie** they’re from?
+
+      Don’t worry about the spelling. Just spell it like it sounds, and the box will turn green.
+    questions:
+      - "[Dialogue 1](VC-01.opus)"
+      - "[Dialogue 2](VC-02.opus)"
+      - "[Dialogue 3](VC-03.opus)"
+      - "[Dialogue 4](VC-04.opus)"
+      - "[Dialogue 5](VC-05.opus)"
+      - "[Dialogue 6](VC-06.opus)"
+      - "[Dialogue 7](VC-07.opus)"
+      - "[Dialogue 8](VC-08.opus)"
+      - "[Dialogue 9](VC-09.opus)"
+      - "[Dialogue 10](VC-10.opus)"
